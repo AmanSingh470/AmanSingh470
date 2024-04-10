@@ -2,8 +2,8 @@
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/212749695-a6817c5a-a794-462b-afca-1b5ce7dd5e63.gif">
 
 [![](https://visitcount.itsvg.in/api?id=AmanSingh470&label=Profile%20Views&color=6&icon=5&pretty=true)](https://visitcount.itsvg.in)
-![Static Badge](https://img.shields.io/badge/Linkedin-black?logo=linkedin&logoColor=white&color=blue)
-![Static Badge](https://img.shields.io/badge/LINKTREE-black?logo=linktree&logoColor=black&color=green)
+![Static Badge](https://img.shields.io/badge/LinkedIn-black?logo=linkedin&color=blue&link=https%3A%2F%2Fwww.linkedin.com%2Fin%2Faman-singh-a301a8291%2F)
+![Static Badge](https://img.shields.io/badge/Linktree-black?logo=linktree&logoColor=black&color=green&link=https%3A%2F%2Fsolo.to%2Famansingh2004)
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=580CF7&random=false&width=435&lines=Full+Stack+Developer++%F0%9F%91%A9%E2%80%8D%F0%9F%92%BB;MERN+Stack+)](https://git.io/typing-svg)
 
@@ -80,10 +80,6 @@
 <h2 align="left">Github Stats</h2>
 
 ###
-
-<div align="center">
-<img alt="my stats" src="https://github-readme-stats.vercel.app/api?username=amansingh470">
-<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=AmanSingh470" alt="GitHub Streak" /></a>
-</div>
-
+[![Aman Singh's GitHub stats](https://github-readme-stats.vercel.app/api?username=amansingh470)](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=amansingh470)](https://git.io/streak-stats)
 ###
