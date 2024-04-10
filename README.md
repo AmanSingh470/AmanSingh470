@@ -1,14 +1,17 @@
-<h2 align="left">Hi, I’m Aman Singh</h2>
+<h1 align="left">Hi 👋, I'm Aman Singh</h1>
+<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/212749695-a6817c5a-a794-462b-afca-1b5ce7dd5e63.gif">
 
-###
+[![](https://visitcount.itsvg.in/api?id=AmanSingh470&label=Profile%20Views&color=6&icon=5&pretty=true)](https://visitcount.itsvg.in)
+![Static Badge](https://img.shields.io/badge/Linkedin-black?logo=linkedin&logoColor=white&color=blue)
+![Static Badge](https://img.shields.io/badge/LINKTREE-black?logo=linktree&logoColor=black&color=green)
 
-<br clear="both">
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=580CF7&random=false&width=435&lines=Full+Stack+Developer++%F0%9F%91%A9%E2%80%8D%F0%9F%92%BB;MERN+Stack+)](https://git.io/typing-svg)
 
-<img align="right" height="250" src="https://private-user-images.githubusercontent.com/74038190/241764371-9d0fd0c4-5c7f-4122-b884-64a1e1685d2d.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MTI3MDkwODgsIm5iZiI6MTcxMjcwODc4OCwicGF0aCI6Ii83NDAzODE5MC8yNDE3NjQzNzEtOWQwZmQwYzQtNWM3Zi00MTIyLWI4ODQtNjRhMWUxNjg1ZDJkLmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDA0MTAlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQwNDEwVDAwMjYyOFomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWFmODdjODQwNjFmMmU1OWU5YjA1ZDFhYzgzY2FjYjYwMjYzYTQzYjUyZTUzMzZlMjA1YmQ5OTRlZjUxNGVmMDgmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JmFjdG9yX2lkPTAma2V5X2lkPTAmcmVwb19pZD0wIn0.49xpmG5hJV6bZFgkBhzWpJNKJ7DS-RMfvWay5COQQVk"  />
 
-###
+- 💬 Ask me about **MERN**, **PHP**
+- 📫 How to reach me **amansinghofficial2004@gmail.com**
+- 👀 Looking to make projects based on MERN
 
-<p align="left">I am a B.tech (Computer Science Engineer) student and a Website developer. I have experience in front-end development using HTML/CSS, JavaScript, React and back-end development using PHP, Node.js, SQL, and MongoDB. I am passionate about working on PHP and MERN Stack development. Eager to work on challenging projects.</p>
 
 ###
 
@@ -19,23 +22,23 @@
 ###
 
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
-  <img width="23" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
-  <img width="23" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
-  <img width="23" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="30" alt="php logo"  />
-  <img width="23" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="30" alt="c logo"  />
-  <img width="23" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="30" alt="cplusplus logo"  />
-  <img width="23" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" alt="mysql logo"  />
-  <img width="23" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="30" alt="mongodb logo"  />
-  <img width="23" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="java logo"  />
+  <img src="https://img.shields.io/badge/HTML-black?logo=html5&color=rgb(5%2C18%2C42)" height="25" alt="html5 logo"  />
+  <img width="0" />
+  <img src="https://img.shields.io/badge/CSS-black?logo=CSS3&color=rgb(5%2C18%2C42)" height="25" alt="css3 logo"  />
+  <img width="0" />
+  <img src="https://img.shields.io/badge/JAVASCRIPT-black?logo=javascript&color=rgb(5%2C18%2C42)" height="25" alt="javascript logo"  />
+  <img width="0" />
+  <img src="https://img.shields.io/badge/PHP-black?logo=php&color=rgb(5%2C18%2C42)" height="25" alt="php logo"  />
+  <img width="0" />
+  <img src="https://img.shields.io/badge/Language-black?logo=c&color=rgb(5%2C18%2C42)" height="25" alt="c logo"  />
+  <img width="0" />
+  <img src="https://img.shields.io/badge/Language-black?logo=c%2B%2B&color=rgb(5%2C18%2C42)" height="25" alt="cplusplus logo"  />
+  <img width="0" />
+  <img src="https://img.shields.io/badge/MYSQL-black?logo=mysql&logoColor=white&color=rgb(5%2C18%2C42)" height="25" alt="mysql logo"  />
+  <img width="0" />
+  <img src="https://img.shields.io/badge/MONGODB-black?logo=mongodb&color=rgb(5%2C18%2C42)" height="25" alt="mongodb logo"  />
+  <img width="0" />
+  <img src="https://img.shields.io/badge/JAVA-black?color=rgb(5%2C18%2C42)" height="25" alt="java logo"  />
 </div>
 
 ###
@@ -45,21 +48,31 @@
 ###
 
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
-  <img width="23" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original.svg" height="30" alt="jquery logo"  />
-  <img width="23" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="30" alt="bootstrap logo"  />
-  <img width="23" />
-  <img src="https://cdn.simpleicons.org/adobephotoshop/31A8FF" height="30" alt="adobephotoshop logo"  />
-  <img width="23" />
-  <img src="https://cdn.simpleicons.org/adobeillustrator/FF9A00" height="30" alt="adobeillustrator logo"  />
-  <img width="23" />
-  <img src="https://cdn.simpleicons.org/postman/FF6C37" height="30" alt="postman logo"  />
-  <img width="23" />
-  <img src="https://skillicons.dev/icons?i=github" height="30" alt="github logo"  />
-  <img width="23" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="git logo"  />
+  <img src="https://img.shields.io/badge/REACT-black?logo=react&color=rgb(5%2C18%2C42)" height="25" alt="react logo"  />
+  <img width="0" />
+  <img src="https://img.shields.io/badge/JQUERY-black?logo=jquery&color=rgb(5%2C18%2C42)" height="25" alt="jquery logo"  />
+  <img width="0" />
+  <img src="https://img.shields.io/badge/BOOTSTRAP-black?logo=bootstrap&color=rgb(5%2C18%2C42)" height="25" alt="bootstrap logo"  />
+  <img width="0" />
+  <img src="https://img.shields.io/badge/ADOBE_PHOTOSHOP-black?logo=adobephotoshop&color=rgb(5%2C18%2C42)" height="25" alt="adobephotoshop logo"  />
+  <img width="0" />
+  <img src="https://img.shields.io/badge/ADOBE_ILLUSTRATOR-black?logo=adobeillustrator&color=rgb(5%2C18%2C42)" height="25" alt="adobeillustrator logo"  />
+  <img width="0" />
+  <img src="https://img.shields.io/badge/POSTMAN-black?logo=postman&color=rgb(5%2C18%2C42)" height="25" alt="postman logo"  />
+  <img width="0" />
+  <img src="https://img.shields.io/badge/GIT-black?logo=git&color=rgb(5%2C18%2C42)" height="25" alt="git logo"  />
+  <img width="0" />
+  <img src="https://img.shields.io/badge/REACT_ROUTER-black?logo=reactrouter&color=rgb(5%2C18%2C42)" height="25" alt="react router"  />
+  <img width="0" />
+  <img src="https://img.shields.io/badge/NPM-black?logo=npm&color=rgb(5%2C18%2C42)" height="25" alt="npm logo"  />
+  <img width="0" />
+  <img src="https://img.shields.io/badge/NODEJS-black?logo=nodedotjs&color=rgb(5%2C18%2C42)" height="25" alt="node js"  />
+  <img width="0" />
+  <img src="https://img.shields.io/badge/JWT-black?logo=jsonwebtokens&color=rgb(5%2C18%2C42)" height="25" alt="jwt logo"  />
+  <img width="0" />
+  <img src="https://img.shields.io/badge/ExpressJs-black?logo=express&color=rgb(5%2C18%2C42)" height="25" alt="express logo"  />
+  <img width="0" />
+  <img src="https://img.shields.io/badge/VS_CODE-black?logo=visualstudiocode&logoColor=blue&color=rgb(5%2C18%2C42)" height="25" alt="vscode logo"  />
 </div>
 
 ###
@@ -69,23 +82,8 @@
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AmanSingh470&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=default&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://streak-stats.demolab.com?user=AmanSingh470&locale=en&mode=daily&theme=default&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
-</div>
-
-###
-
-<h2 align="left">Socials</h2>
-
-###
-
-<div align="left">
-  <a href="https://www.linkedin.com/in/aman-singh-a301a8291/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="linkedin logo"  />
-  </a>
-  <a href="https://solo.to/amansingh2004" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Linktree&logo=linktree&label=&color=1de9b6&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="linktree logo"  />
-  </a>
+<img alt="my stats" src="https://github-readme-stats.vercel.app/api?username=amansingh470">
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=AmanSingh470" alt="GitHub Streak" /></a>
 </div>
 
 ###
