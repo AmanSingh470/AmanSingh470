@@ -2,7 +2,7 @@
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/212749695-a6817c5a-a794-462b-afca-1b5ce7dd5e63.gif">
 
 [![](https://visitcount.itsvg.in/api?id=AmanSingh470&label=Profile%20Views&color=6&icon=5&pretty=true)](https://visitcount.itsvg.in)
-<a href=""><img src="https://img.shields.io/badge/LinkedIn-black?logo=linkedin&logoColor=white&color=blue" height="23" alt="linkedin logo"  /></a>
+<a href="https://www.linkedin.com/in/aman-singh-a301a8291/"><img src="https://img.shields.io/badge/LinkedIn-black?logo=linkedin&logoColor=white&color=blue" height="23" alt="linkedin logo"  /></a>
 <img width="5" />
 <a href="https://solo.to/amansingh2004"><img src="https://img.shields.io/badge/Linktree-black?logo=linktree&logoColor=black&color=green" height="23" alt="linktree logo"  /></a>
 
