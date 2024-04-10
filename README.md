@@ -1,4 +1,4 @@
-<h2 align="left">Hi, I’m Aman Singh. I'm a Fullstack Web developer with knowledge and experience in PHP and MERN developement.</h2>
+<h2 align="left">Hi, I’m Aman Singh.</h2>
 
 ###
 
