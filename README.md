@@ -81,6 +81,10 @@
 <h2 align="left">Github Stats</h2>
 
 ###
-[![Aman Singh's GitHub stats](https://github-readme-stats.vercel.app/api?username=amansingh470)](https://github.com/anuraghazra/github-readme-stats)
-[![GitHub Streak](https://streak-stats.demolab.com/?user=amansingh470)](https://git.io/streak-stats)
+
+<div>
+  <img src="https://github-readme-stats.vercel.app/api?username=amansingh470&show_icons=true" />
+  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=AmanSingh470" alt="GitHub Streak" /></a>
+</div>
+
 ###
