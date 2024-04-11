@@ -1,10 +1,11 @@
 <h1 align="left">Hi 👋, I'm Aman Singh</h1>
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/212749695-a6817c5a-a794-462b-afca-1b5ce7dd5e63.gif">
 
-[![](https://visitcount.itsvg.in/api?id=AmanSingh470&label=Profile%20Views&color=6&icon=5&pretty=true)](https://visitcount.itsvg.in)
-<a href="https://www.linkedin.com/in/aman-singh-a301a8291/"><img src="https://img.shields.io/badge/LinkedIn-black?logo=linkedin&logoColor=white&color=blue" height="23" alt="linkedin logo"  /></a>
+![](https://komarev.com/ghpvc/?username=amansingh470)
 <img width="5" />
-<a href="https://solo.to/amansingh2004"><img src="https://img.shields.io/badge/Linktree-black?logo=linktree&logoColor=black&color=green" height="23" alt="linktree logo"  /></a>
+<a href="https://www.linkedin.com/in/aman-singh-a301a8291/"><img src="https://img.shields.io/badge/LinkedIn-black?logo=linkedin&logoColor=white&color=blue" height="22" alt="linkedin logo"  /></a>
+<img width="5" />
+<a href="https://solo.to/amansingh2004"><img src="https://img.shields.io/badge/Linktree-black?logo=linktree&logoColor=black&color=green" height="22" alt="linktree logo"  /></a>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=580CF7&random=false&width=435&lines=Full+Stack+Developer++%F0%9F%91%A9%E2%80%8D%F0%9F%92%BB;MERN+Stack+)](https://git.io/typing-svg)
 
