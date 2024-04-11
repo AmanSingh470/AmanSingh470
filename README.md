@@ -5,7 +5,7 @@
 <img width="5" />
 <a href="https://www.linkedin.com/in/aman-singh-a301a8291/"><img src="https://img.shields.io/badge/LinkedIn-black?logo=linkedin&logoColor=white&color=blue" height="22" alt="linkedin logo"  /></a>
 <img width="5" />
-<a target="_blank" href="https://linktr.ee/amansingh_2004"><img src="https://img.shields.io/badge/Linktree-black?logo=linktree&logoColor=black&color=green" height="22" alt="linktree logo"  /></a>
+<a href="https://linktr.ee/amansingh_2004"><img src="https://img.shields.io/badge/Linktree-black?logo=linktree&logoColor=black&color=green" height="22" alt="linktree logo"  /></a>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=580CF7&random=false&width=435&lines=Full+Stack+Developer++%F0%9F%91%A9%E2%80%8D%F0%9F%92%BB;MERN+Stack+)](https://git.io/typing-svg)
 
