@@ -84,8 +84,33 @@
 ###
 
 <div align="left"> 
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=amansingh470&show_icons=true" height="150"/>
-  <a align="right" href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=AmanSingh470" alt="GitHub Streak" height="150"/></a>
-</div>
+  
+<picture>
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=amansingh470&show_icons=true&theme=dark"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=amansingh470&show_icons=true"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+  />
+  <img src="https://streak-stats.demolab.com?user=AmanSingh470" alt="GitHub Streak" height="150"/>
+</picture>
+
+<img href="" width="15"/>
+
+<picture>
+  <source
+    srcset="https://streak-stats.demolab.com?user=AmanSingh470&theme=dark"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source
+    srcset="https://streak-stats.demolab.com?user=AmanSingh470"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+  />
+  <img src="https://streak-stats.demolab.com?user=AmanSingh470" alt="GitHub Streak" height="150"/>
+</picture>
+
+</div> 
 
 ###
