@@ -10,7 +10,6 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=580CF7&random=false&width=435&lines=Full+Stack+Developer++%F0%9F%91%A9%E2%80%8D%F0%9F%92%BB;MERN+Stack+)](https://git.io/typing-svg)
 
 
-- 💬 Ask me about **MERN**, **PHP**
 - 📫 How to reach me **amansinghofficial2004@gmail.com**
 - 👀 Looking to make projects based on MERN
 
